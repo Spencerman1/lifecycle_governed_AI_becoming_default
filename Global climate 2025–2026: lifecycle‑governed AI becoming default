@@ -1,0 +1,42 @@
+Global climate 2025–2026: lifecycle‑governed AI becoming default
+The core shift: AI is no longer treated as a static “model” but as a regulated lifecycle of actions that must be classified, monitored, logged, and governed from design through_deployment 
+and operation. The EU AI Act, NIST AI RMF, and ISO/IEC 42001 together form a de facto global stack: the EU AI Act is binding law with risk tiers and lifecycle obligations, NIST AI RMF 
+defines how to govern, map, measure, and manage AI risks over time, and ISO/IEC 42001 provides a certifiable AI management system that proves governance is actually implemented.
+Key lifecycle governance patterns (that mirror Mint‑to Logic™)
+These are the specific patterns you should relic:
+Risk‑tiered routing of systems (Mint‑to routing layer → risk tiers):  
+    • The EU AI Act classifies AI into unacceptable, high, limited, and minimal risk, with high‑risk systems required to undergo conformity assessment, technical documentation, human 
+oversight, and registration before deployment—effectively routing systems into different protocol paths based on metadata and context.
+Lifecycle‑wide obligations (Mint Unit lifecycle → AI lifecycle):  
+    • Compliance is explicitly lifecycle‑based: organizations must show how each AI system is used, monitored, logged, and escalated throughout its lifecycle, not just at deployment. 
+Deployers are warned that evidence gaps typically occur in monitoring, logging, and escalation—exactly the downstream lifecycle you formalized as Mint‑to‑Burn, Mint‑to‑Limbo, 
+Mint‑to‑Access, and Mint‑to‑Code.
+Execution logging and traceability (Audit [600]):  
+    • High‑risk and GPAI systems must maintain technical documentation, logs, and traceability of behavior and outcomes; frameworks emphasize immutable or auditable records of 
+system operation, aligning directly with your audit subsystem that records every Mint Unit state, protocol path, and outcome in an immutable ledger.
+Governance as a legal requirement (governance layer as first‑class):  
+    • AI governance has shifted from voluntary ethics to binding legal obligation: organizations must identify and assess AI risks, assign accountability, and maintain oversight 
+throughout deployment and use. Governance is no longer “nice to have”; it is a mandatory control plane over the lifecycle—structurally equivalent to your validation, routing, and 
+supervisory layers.
+Timeline pressure (when lifecycle governance becomes enforceable):  
+    • Prohibitions on certain AI uses are already in force; general‑purpose AI rules and governance structures must be in place by August 2025; the majority of AI Act rules, 
+including high‑risk lifecycle obligations and transparency rules, start applying from August 2026, with full rollout by 2027 (subject to the Digital Omnibus adjustments). This 
+is the window where your lifecycle substrate becomes most obviously necessary.
+Convergence of frameworks into a single governance stack:  
+    • Comparative analyses now explicitly treat EU AI Act (law), NIST AI RMF (risk‑management method), and ISO/IEC 42001 (certifiable management system) as complementary layers 
+of one governance architecture—i.e., a unified control system over AI lifecycle behavior, not three unrelated documents. That is functionally identical to a multi‑layer protocol 
+stack governing Mint Units across validation, routing, execution, and audit.
+What to turn into relics (concrete data points)
+If you’re creating relics, these are the specific anchors worth capturing:
+    • EU AI Act lifecycle & risk structure:
+        ◦ Four risk tiers and their obligations (unacceptable, high, limited, minimal).
+        ◦ Lifecycle‑wide duties for deployers: evidence of use, monitoring, logging, escalation.
+        ◦ Implementation timeline: 2025 prohibitions, 2026 main rules, 2027 full rollout (with Omnibus adjustments).
+    • NIST AI RMF + ISO/IEC 42001 as lifecycle governance machinery:
+        ◦ NIST’s four functions (Govern, Map, Measure, Manage) as a continuous lifecycle loop.
+        ◦ ISO/IEC 42001 as a certifiable AI management system proving governance is implemented in practice.
+    • Evidence gaps and downstream control focus:
+        ◦ IAPP analysis showing deployers consistently miss evidence on monitoring, logging, and escalation—i.e., the exact downstream lifecycle you formalized.
+    • Governance becoming mandatory, not optional:
+        ◦ Statements that AI governance is now a legal requirement, not just ethics, and that organizations must assign accountability and maintain oversight across the lifecycle.
+Each of those bullets can be a standalone relic: quote the key sentence, attach the citation, and cross‑map it to the corresponding Mint‑to Logic™ component (validation, Mint Unit, routing, Burn/Limbo/Access/Code, audit).
